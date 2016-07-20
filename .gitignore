@@ -1,0 +1,6 @@
+*~
+md_environ.egg-info/
+dist/
+*.pyc
+test.py
+test.md
