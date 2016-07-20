@@ -24,7 +24,7 @@ This module can be used in a program in the following way:
 .. code:: python
 
     import markdown
-    html = markdown.markdown(source, extensions=['md_environ.environ])
+    html = markdown.markdown(source, extensions=['md_environ.environ'])
 
 The syntax for use within your Markdown files is
 ``${ENVIRONMENT_VARIABLE}``. This statement will be replaced by the

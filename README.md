@@ -17,7 +17,7 @@ This module can be used in a program in the following way:
 
 ```python
 import markdown
-html = markdown.markdown(source, extensions=['md_environ.environ])
+html = markdown.markdown(source, extensions=['md_environ.environ'])
 ```
 
 The syntax for use within your Markdown files is
